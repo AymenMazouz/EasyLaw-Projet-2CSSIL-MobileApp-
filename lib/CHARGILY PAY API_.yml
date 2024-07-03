@@ -1,0 +1,10 @@
+CHARGILY PAY API:
+
+TestModeUrl:
+            https://pay.chargily.net/test/api/v2
+TestModeKey:
+            Public key:
+                      test_pk_U9ue60NpEjoS27ldd2K19Qu3wBUMsbaTJf9eQAZP
+            Secret key:
+                      test_sk_FTPMaePzsvPmKW7rIe3LZ6zek04xYncaXVWv4tSC
+
